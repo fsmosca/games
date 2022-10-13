@@ -3,9 +3,12 @@ This is a collection of over the board classical chess games. The games in the p
 
 ## Cleaning process
 
-The PGN files are run on [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) program to add `PlyCount` tag values and detect errors in the files.
+The PGN files are run on [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) program to add `PlyCount` tag values and detect errors in the games.
 
 
 ## Credits
 
-* [The week in chess](https://theweekinchess.com/)
+* [The week in chess](https://theweekinchess.com/)  
+Game collections
+* [Chess.com](https://www.chess.com/)  
+Game collections
