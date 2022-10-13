@@ -1,5 +1,5 @@
 # Game
-A collection of over the board classical chess games.
+This is a collection of over the board classical chess games. The games in the pgn files can be found under the pgn folder.
 
 ## Cleaning process
 
