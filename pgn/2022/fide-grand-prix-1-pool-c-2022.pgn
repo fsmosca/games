@@ -1,0 +1,332 @@
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.04"]
+[Round "1.1"]
+[White "Aronian, Levon"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2727"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[EventDate "2022.02.04"]
+[PlyCount "127"]
+[WhiteFideId "13300474"]
+[BlackFideId "5029465"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. a3 Bd6 8.
+Qc2 c6 9. Nge2 Re8 10. Bd2 b6 11. O-O Ba6 12. Kh1 c5 13. Rad1 g6 14. Qb1
+Bb7 15. Nf4 Nbd7 16. f3 Nf8 17. b4 cxd4 18. exd4 Bxf4 19. Bxf4 Nh5 20. Be5
+f6 21. Bg3 Nxg3+ 22. hxg3 Qc7 23. Ne2 Re3 24. Qa2 Rae8 25. Qd2 Qd6 26. Rc1
+R3e7 27. Bb5 Rc8 28. Rxc8 Bxc8 29. Qf4 Qxf4 30. Nxf4 Bb7 31. Kg1 Kf7 32.
+Kf2 Ne6 33. Rh1 h5 34. Bd3 Nxf4 35. gxf4 Rc7 36. f5 g5 37. Rxh5 Kg7 38. Rh1
+Rc3 39. Ke2 Bc6 40. Ra1 Bd7 41. Kd2 Rc8 42. b5 Rh8 43. g4 Rc8 44. a4 Kf8
+45. a5 Ke7 46. axb6 axb6 47. Ra7 Rb8 48. Ke3 Kd6 49. f4 Re8+ 50. Kf3 gxf4
+51. Kxf4 Bxb5 52. Bxb5 Re4+ 53. Kf3 Rf4+ 54. Ke3 Re4+ 55. Kf2 Rf4+ 56. Ke1
+Rxd4 57. Ra4 Rxa4 58. Bxa4 Ke5 59. Kd2 Kf4 60. Bd1 d4 61. Kd3 Ke5 62. Kc4
+Ke4 63. Bc2+ Ke3 64. Bb1 1-0
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.04"]
+[Round "1.2"]
+[White "Keymer, Vincent"]
+[Black "Dubov, Daniil"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2664"]
+[BlackElo "2720"]
+[ECO "D12"]
+[Opening "QGD Slav"]
+[Variation "4.e3 Bf5"]
+[EventDate "2022.02.04"]
+[PlyCount "169"]
+[WhiteFideId "12940690"]
+[BlackFideId "24126055"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8.
+Bd2 Nbd7 9. Qb3 Qc7 10. cxd5 exd5 11. O-O-O a5 12. Qc2 Rxh2 13. Rxh2 Qxh2
+14. a3 Be7 15. Kb1 Nb6 16. f3 Nc4 17. Bc1 b5 18. e4 b4 19. Qa4 Rc8 20. axb4
+Bxb4 21. Na2 Be7 22. Bxc4 dxc4 23. d5 Kf8 24. Qxc4 Qc7 25. dxc6 Qxc6 26.
+Qxc6 Rxc6 27. Bd2 Ra6 28. Nc1 Ke8 29. Bc3 a4 30. Ka2 g5 31. Nd3 g4 32. Nb4
+Bxb4 33. Bxb4 gxf3 34. gxf3 Nd7 35. f4 Rc6 36. Bc3 Nc5 37. Rd4 Ne6 38. Rxa4
+Nxf4 39. Bxg7 f6 40. Bh6 Nd3 41. Rd4 Ra6+ 42. Kb1 Nxb2 43. Kxb2 f5 44. Bd2
+fxe4 45. Rxe4+ Kd7 46. Kb3 Ra1 47. Kc4 Ra6 48. Bb4 Re6 49. Rh4 Kc6 50. Bc5
+Rg6 51. Bd4 Re6 52. Rh1 Rg6 53. Ra1 Rg2 54. Ra6+ Kd7 55. Kd5 Rd2 56. Ra7+
+Kd8 57. Kc5 Ke8 58. Ra1 Kd7 59. Kd5 Rd3 60. Rg1 Rd2 61. Rh1 Kc7 62. Rh7+
+Kd8 63. Ke5 Kc8 64. Bc5 Rd7 65. Rh8+ Kc7 66. Bd4 Kc6 67. Rh6+ Kb5 68. Ke4
+Re7+ 69. Kd3 Rb7 70. Re6 Rb8 71. Rd6 Rb7 72. Ke4 Rh7 73. Rb6+ Kc4 74. Rc6+
+Kb5 75. Rc5+ Kb4 76. Rc8 Kb5 77. Be5 Rh4+ 78. Kd5 Rh5 79. Rb8+ Ka5 80. Kd4
+Ka6 81. Bc7 Rb5 82. Rg8 Kb7 83. Kc4 Rf5 84. Bg3 Kc6 85. Kd4 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.05"]
+[Round "2.1"]
+[White "Keymer, Vincent"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2664"]
+[BlackElo "2727"]
+[ECO "D41"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch, 5.cd"]
+[EventDate "2022.02.04"]
+[PlyCount "76"]
+[WhiteFideId "12940690"]
+[BlackFideId "5029465"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 dxe4
+8. Qxd8+ Kxd8 9. Ng5 Be6 10. Nxe6+ fxe6 11. Bg5 Nc6 12. Bc4 Ke7 13. Nxe4
+Kf7 14. Bxf6 gxf6 15. O-O-O Rd8 16. Rxd8 Nxd8 17. Rd1 Be7 18. Rd7 f5 19.
+Nd6+ Kf6 20. Nxb7 Nxb7 21. Rxb7 Bc5 22. Rc7 Bxf2 23. Rc6 Re8 24. b4 Bg1 25.
+h3 Rb8 26. Rxe6+ Kg5 27. b5 Rc8 28. Rc6 Rxc6 29. bxc6 Bb6 30. Kd2 Kf6 31.
+Bd3 h6 32. Ke2 f4 33. Kf3 Bc7 34. Ke4 a5 35. Bc4 Bb8 36. Kd5 Bc7 37. Bd3
+Bb8 38. Kc5 Bc7 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.05"]
+[Round "2.2"]
+[White "Dubov, Daniil"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2772"]
+[ECO "A45"]
+[Opening "Queen's pawn game"]
+[EventDate "2022.02.04"]
+[PlyCount "71"]
+[WhiteFideId "24126055"]
+[BlackFideId "13300474"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. Nf3 Nc6 5. Nbd2 Nh5 6. Be5 e6 7. c4 cxd4 8.
+cxd5 Qxd5 9. Bc4 Qd8 10. Bxd4 Nxd4 11. Nxd4 Nf6 12. O-O Be7 13. Qb3 O-O 14.
+Rfd1 Bc5 15. Rac1 Qe7 16. N2f3 b6 17. Bb5 Bb7 18. Bc6 Rac8 19. Bxb7 Qxb7
+20. h3 Bxd4 21. Nxd4 Rxc1 22. Rxc1 Rc8 23. Rc4 g6 24. Nb5 Rxc4 25. Qxc4 Qd7
+26. Nd4 h5 27. Qc6 Qe7 28. Qc4 Qd7 29. Qc6 Qe7 30. Qc8+ Kg7 31. Qc3 Qd6 32.
+Nf3 Qd1+ 33. Kh2 Qd6+ 34. Kg1 Qd1+ 35. Kh2 Qd6+ 36. Kg1 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.06"]
+[Round "3.1"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Dubov, Daniil"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2720"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld, 6.O-O c6"]
+[EventDate "2022.02.04"]
+[PlyCount "85"]
+[WhiteFideId "5029465"]
+[BlackFideId "24126055"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 d5 5. c4 c6 6. O-O O-O 7. Qb3 a5 8.
+cxd5 a4 9. Qd1 cxd5 10. Nc3 Qa5 11. Bd2 Nc6 12. e3 Qa6 13. b3 axb3 14. Qxb3
+Na5 15. Qb4 Nc6 16. Qb2 Bf5 17. Rfc1 Rfc8 18. Ne5 Qa3 19. Qxa3 Rxa3 20. g4
+Nxg4 21. Nxg4 Bxg4 22. Nxd5 Rca8 23. Nb4 Na5 24. Rab1 Bf8 25. Rc7 Be6 26.
+d5 Bg4 27. h3 Bf5 28. e4 Bxh3 29. Bc1 Bxg2 30. Bxa3 Bxe4 31. Re1 Bf5 32.
+Nc2 Bxc2 33. Rxc2 Nc4 34. Rxc4 Rxa3 35. d6 e6 36. Rd1 Rxa2 37. d7 Be7 38.
+d8=Q+ Bxd8 39. Rxd8+ Kg7 40. Rd7 Ra5 41. Rf4 Rf5 42. Rxf5 exf5 43. f4 1-0
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.06"]
+[Round "3.2"]
+[White "Aronian, Levon"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2664"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[EventDate "2022.02.04"]
+[PlyCount "83"]
+[WhiteFideId "13300474"]
+[BlackFideId "12940690"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 Nc6 6. Nf3 Nb4 7. Nc3 g6 8.
+Ne5 a6 9. O-O Bg7 10. Re1 O-O 11. Bg5 Nxd3 12. cxd3 Qb6 13. Nf3 e6 14. Na4
+Qd6 15. Qd2 a5 16. Rac1 Bd7 17. Nc5 b6 18. Bf4 Qe7 19. Nxd7 Nxd7 20. Rc7
+Rfc8 21. Rec1 Qd8 22. Qc2 Rxc7 23. Qxc7 Qxc7 24. Rxc7 Rd8 25. Rb7 Kf8 26.
+Bd6+ Ke8 27. Ne5 Bxe5 28. dxe5 Rc8 29. d4 Kd8 30. Ra7 Rc4 31. b3 Rc1+ 32.
+Kh2 h6 33. Kg3 Rc3+ 34. f3 Rc6 35. h4 Rc8 36. h5 Rc6 37. Kh4 Rc8 38. g4 Ke8
+39. f4 Kd8 40. hxg6 fxg6 41. g5 h5 42. f5 1-0
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.07"]
+[Round "4.1"]
+[White "Dubov, Daniil"]
+[Black "Keymer, Vincent"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2664"]
+[ECO "B12"]
+[Opening "Caro-Kann"]
+[Variation "advance variation"]
+[EventDate "2022.02.04"]
+[PlyCount "63"]
+[WhiteFideId "24126055"]
+[BlackFideId "12940690"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8.
+O-O Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4 12. Ndb5 Ba5 13. Rb1 Qxc2
+14. Rc1 Qb2 15. Na4 Bxe1 16. Nxb2 Ba5 17. Nd6+ Ke7 18. Nxb7 Bd8 19. Nxd8
+Kxd8 20. Rfd1 Rb8 21. Nc4 g5 22. Nd6 Bg6 23. Rd4 Ne7 24. g4 Rb6 25. Bb5 Rb8
+26. Ra4 Nc8 27. Rxc8+ Rxc8 28. Rxa7 Rc7 29. Ra8+ Ke7 30. Rxh8 f6 31. Rc8
+Ra7 32. Rc6 1-0
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.07"]
+[Round "4.2"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2772"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan accepted"]
+[EventDate "2022.02.04"]
+[PlyCount "76"]
+[WhiteFideId "5029465"]
+[BlackFideId "13300474"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 c5
+8. Nc3 Qc7 9. d4 b5 10. Bf4 Qa7 11. d5 Nxd5 12. Nxd5 exd5 13. a4 Be7 14.
+axb5 Qb6 15. Ne5 Nxe5 16. Bxd5 Bb7 17. Qe4 Bxd5 18. Qxd5 O-O 19. Bxe5 Qxb5
+20. O-O Rfe8 21. Bc3 a5 22. e3 a4 23. Rfd1 Qb3 24. Ra3 Qxd5 25. Rxd5 c4 26.
+Ra2 Rec8 27. Kf1 a3 28. bxa3 Rxa3 29. Rxa3 Bxa3 30. Ke2 Be7 31. Rd7 Bf6 32.
+Bxf6 gxf6 33. Kd2 Ra8 34. Kc3 Ra3+ 35. Kb2 Rb3+ 36. Kc2 Ra3 37. Kb2 Rb3+
+38. Kc2 Ra3 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.09"]
+[Round "5.1"]
+[White "Keymer, Vincent"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2664"]
+[BlackElo "2772"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[EventDate "2022.02.04"]
+[PlyCount "70"]
+[WhiteFideId "12940690"]
+[BlackFideId "13300474"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Qa4+ Nc6 6. e3 O-O 7. Qc2 Qe7 8.
+Bd2 dxc4 9. Bxc4 e5 10. d5 Qc5 11. Ne4 Nxe4 12. Qxe4 Ne7 13. Nxe5 Bf5 14.
+Qf4 Bxd2+ 15. Kxd2 Qb4+ 16. Kc1 Qc5 17. g4 g5 18. b4 Qxb4 19. Qd4 Ng6 20.
+Bb3 Qa3+ 21. Kd2 c5 22. Qc3 Nxe5 23. gxf5 Rfe8 24. Rhg1 b5 25. Rxg5+ Kh8
+26. Bd1 Qa6 27. Be2 Rad8 28. e4 Qa4 29. Rh5 Qxe4 30. Rg1 Rxd5+ 31. Kc1 Qf4+
+32. Kb1 Rd4 33. Bxb5 Rb4+ 34. Ka1 Rxb5 35. Re1 f6 0-1
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.09"]
+[Round "5.2"]
+[White "Dubov, Daniil"]
+[Black "Vidit, Santosh Gujrathi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2720"]
+[BlackElo "2727"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[EventDate "2022.02.04"]
+[PlyCount "83"]
+[WhiteFideId "24126055"]
+[BlackFideId "5029465"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. e3 Nc6 6. a3 dxc4 7. Bxc4 a6 8.
+O-O b5 9. Ba2 Bb7 10. Qe2 cxd4 11. Rd1 b4 12. exd4 bxc3 13. d5 Nxd5 14.
+Rxd5 Qc7 15. Rd3 Be7 16. Rxc3 O-O 17. Be3 Rac8 18. Rac1 Qb8 19. Bb1 Bf6 20.
+Rc5 Ne7 21. b4 g6 22. Bd3 Qa8 23. h3 Nd5 24. Bh6 Rxc5 25. Rxc5 Rc8 26. Ne5
+Rxc5 27. bxc5 Qc8 28. c6 Bxc6 29. Nxc6 Qxc6 30. Bxa6 g5 31. Bd3 Nf4 32. Qe4
+Qxe4 33. Bxe4 Bd8 34. Kf1 f5 35. Bc2 Ng6 36. a4 Kf7 37. g3 Kf6 38. Ke2 e5
+39. f3 Ba5 40. g4 Nf4+ 41. Kf1 fxg4 42. h4 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.10"]
+[Round "6.1"]
+[White "Vidit, Santosh Gujrathi"]
+[Black "Keymer, Vincent"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2727"]
+[BlackElo "2664"]
+[ECO "A13"]
+[Opening "English"]
+[Variation "Neo-Catalan"]
+[EventDate "2022.02.04"]
+[PlyCount "144"]
+[WhiteFideId "5029465"]
+[BlackFideId "12940690"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 d4 5. d3 Nc6 6. O-O Bc5 7. Nbd2 Be7 8.
+Nb3 O-O 9. e3 dxe3 10. Bxe3 Ng4 11. Bc5 Bxc5 12. Nxc5 b6 13. Ne4 Bb7 14. d4
+Rb8 15. Re1 Nf6 16. Nc3 Ne7 17. Ne5 Bxg2 18. Kxg2 c6 19. Qd3 Qc7 20. Rad1
+Rbd8 21. Qf3 Rd6 22. b4 Ng6 23. h4 Ne7 24. b5 a6 25. a4 axb5 26. axb5 Qc8
+27. h5 h6 28. g4 Nd7 29. Nxc6 Nxc6 30. bxc6 Rxc6 31. Nb5 Qb7 32. Nd6 Qc7
+33. Nb5 Qb7 34. Ra1 Nf6 35. Re5 Nh7 36. Na7 Rc7 37. Qxb7 Rxb7 38. Nb5 Nf6
+39. f3 Rd8 40. Kf2 Ne8 41. d5 exd5 42. Rxd5 Rc8 43. Rd4 Re7 44. Ra6 Re6 45.
+Ra7 Rec6 46. Ke3 Re6+ 47. Kd3 Rf6 48. f4 g6 49. Nc3 Kf8 50. Nd5 Re6 51.
+hxg6 fxg6 52. f5 gxf5 53. gxf5 Rd6 54. Nf4 Kg8 55. Nd5 Kf8 56. Ke4 Rc5 57.
+Ra8 Kf7 58. Ra7+ Kf8 59. Ra8 Kf7 60. Rb8 Rdc6 61. Kd3 Nd6 62. Nb4 Rc8 63.
+Rxb6 Nxc4 64. Rb7+ R5c7 65. Rd7+ Rxd7+ 66. Rxd7+ Kf6 67. Ke4 Nd2+ 68. Ke3
+Nf1+ 69. Kf2 Nh2 70. Kg3 Nf1+ 71. Kf2 Nh2 72. Kg3 Nf1+ 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool C"]
+[Site "Berlin GER"]
+[Date "2022.02.10"]
+[Round "6.2"]
+[White "Aronian, Levon"]
+[Black "Dubov, Daniil"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2772"]
+[BlackElo "2720"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Byrne (English) attack"]
+[EventDate "2022.02.04"]
+[PlyCount "42"]
+[WhiteFideId "13300474"]
+[BlackFideId "24126055"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8.
+f3 Nbd7 9. Qd2 b5 10. a4 b4 11. Nd5 Bxd5 12. exd5 Nb6 13. Bxb6 Qxb6 14. a5
+Qb7 15. Bc4 Be7 16. Ra4 Rb8 17. Qd3 Ra8 18. Qd2 Rb8 19. Qd3 Ra8 20. Qd2 Rb8
+21. Qd3 Ra8 1/2-1/2
+
