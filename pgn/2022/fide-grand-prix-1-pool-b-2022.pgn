@@ -1,0 +1,340 @@
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.04"]
+[Round "1.1"]
+[White "Fedoseev, Vladimir3"]
+[Black "Oparin, Grigoriy"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2704"]
+[BlackElo "2681"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[EventDate "2022.02.04"]
+[PlyCount "95"]
+[WhiteFideId "24130737"]
+[BlackFideId "24125890"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Qc2 b5 8.
+a4 Bb7 9. axb5 a6 10. Nc3 axb5 11. Rxa8 Bxa8 12. Nxb5 Bd5 13. Rd1 c5 14.
+dxc5 Qa5 15. Nfd4 Bxc5 16. Bxd5 exd5 17. b3 Rc8 18. bxc4 Bxd4 19. Nxd4 Rxc4
+20. Qb1 Nbd7 21. Bb2 Qb4 22. Nf5 h5 23. Ne3 Re4 24. Qa1 h4 25. Bd4 h3 26.
+f3 Re8 27. Kf2 Qe7 28. Qc3 Qe6 29. Rc1 Qe7 30. Rc2 Rb8 31. Qa1 Re8 32. Qc3
+Qd6 33. Qd3 Qb4 34. Qd2 Qb1 35. Rc1 Qg6 36. Qc2 Qh6 37. Qf5 Nf8 38. Rc2
+N6d7 39. Qxd5 Qg6 40. Rc1 Qa6 41. Ra1 Qg6 42. Rd1 Qa6 43. Qf5 Qa4 44. Qg4
+f6 45. Ra1 Qb5 46. Ra7 Ne6 47. Nf5 Ng5 48. Be3 1-0
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.04"]
+[Round "1.2"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2763"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Franco-Indian (Keres) defence"]
+[EventDate "2022.02.04"]
+[PlyCount "115"]
+[WhiteFideId "1118358"]
+[BlackFideId "738590"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 a5 4. Nf3 Nf6 5. g3 d5 6. Bg2 dxc4 7. Qc2 c5 8.
+a3 Bxd2+ 9. Nbxd2 cxd4 10. Nxc4 O-O 11. Qd3 Nc6 12. O-O Ra6 13. Rfd1 b5 14.
+Nce5 Bb7 15. Nxc6 Bxc6 16. Qxd4 Qa8 17. Rac1 h6 18. Bf1 Bd5 19. Ne5 Qb8 20.
+f3 Rd6 21. Qc5 Ra6 22. Qc7 Bc4 23. Qxb8 Rxb8 24. e4 Rab6 25. Rd2 g5 26. g4
+Kg7 27. Bxc4 bxc4 28. Nxc4 Rb3 29. Kf2 a4 30. Rcc2 h5 31. h3 hxg4 32. hxg4
+Rh8 33. Ne5 Rb5 34. Nd3 Rh2+ 35. Kf1 Rxd2 36. Rxd2 Nd7 37. Ke2 Kf6 38. Rc2
+Rb8 39. Rc4 Ne5 40. Rb4 Rxb4 41. Nxb4 Nc4 42. Nd3 Ke7 43. Kd1 Kd6 44. Kc2
+Kc6 45. Kc3 Kb5 46. Kd4 f6 47. e5 f5 48. gxf5 exf5 49. e6 g4 50. e7 Nd6 51.
+Kd5 Ne8 52. f4 g3 53. Ne1 Ng7 54. Ng2 Kb6 55. Kd6 Kb5 56. Ne3 Kb6 57. Kd7
+Kc5 58. e8=Q 1-0
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.05"]
+[Round "2.1"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Oparin, Grigoriy"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2681"]
+[ECO "D33"]
+[Opening "QGD"]
+[Variation "Tarrasch, Prague variation"]
+[EventDate "2022.02.04"]
+[PlyCount "82"]
+[WhiteFideId "1118358"]
+[BlackFideId "24125890"]
+
+1. c4 Nf6 2. Nc3 c5 3. g3 e6 4. Nf3 d5 5. cxd5 exd5 6. d4 Nc6 7. Bg2 cxd4
+8. Nxd4 Bc5 9. Nb3 Bb6 10. Na4 O-O 11. Nxb6 axb6 12. Be3 h5 13. O-O h4 14.
+gxh4 Bg4 15. f3 Bf5 16. Nd4 Bg6 17. Qd2 Re8 18. Rfe1 Nh5 19. Bf2 Qf6 20.
+Qg5 Nxd4 21. Qxf6 Nxe2+ 22. Rxe2 gxf6 23. Rxe8+ Rxe8 24. Bxb6 Re2 25. Bd4
+Rc2 26. Bf1 Nf4 27. Bxf6 Bd3 28. Bxd3 Nxd3 29. Rd1 Nf4 30. Kf1 Kh7 31. Be5
+Ng2 32. Rd3 Nxh4 33. Rxd5 Nxf3 34. Bc3 Kg6 35. h3 f5 36. Rd3 Ng5 37. Rd6+
+Kh5 38. Rf6 Ne4 39. Rxf5+ Kg6 40. Rb5 Nxc3 41. bxc3 Rxc3 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.05"]
+[Round "2.2"]
+[White "Rapport, Richard"]
+[Black "Fedoseev, Vladimir3"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2704"]
+[ECO "E32"]
+[Opening "Nimzo-Indian"]
+[Variation "classical variation"]
+[EventDate "2022.02.04"]
+[PlyCount "103"]
+[WhiteFideId "738590"]
+[BlackFideId "24130737"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7
+8. Nh3 h6 9. Bh4 d6 10. f3 Nbd7 11. e4 c5 12. Nf2 Re8 13. dxc5 Nxc5 14.
+Bxf6 Qxf6 15. Qxf6 gxf6 16. b4 Nb3 17. Rd1 a5 18. Rxd6 axb4 19. axb4 Ra1+
+20. Rd1 Rea8 21. Be2 Nc1 22. Ng4 R8a2 23. Nxf6+ Kf8 24. Kf2 Rxe2+ 25. Kg3
+Rc2 26. Kh4 Kg7 27. Nh5+ Kg6 28. Rd8 Ra8 29. Rhd1 Rxc4 30. Rxa8 Bxa8 31.
+Rd8 Bxe4 32. g4 Kh7 33. fxe4 e5 34. Nf6+ Kg6 35. Rd6 Ne2 36. Ng8+ Kg7 37.
+Nxh6 Rxe4 38. Nf5+ Kh7 39. Rh6+ Kg8 40. Rxb6 Nf4 41. Kg5 f6+ 42. Kh6 Re2
+43. h4 Kf7 44. b5 Rb2 45. Rb8 Nd5 46. h5 e4 47. Nd6+ Ke7 48. Nxe4 Rb4 49.
+b6 f5 50. gxf5 Rxe4 51. b7 Nf6 52. Rd8 1-0
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.06"]
+[Round "3.1"]
+[White "Oparin, Grigoriy"]
+[Black "Rapport, Richard"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2681"]
+[BlackElo "2763"]
+[ECO "B63"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack"]
+[EventDate "2022.02.04"]
+[PlyCount "120"]
+[WhiteFideId "24125890"]
+[BlackFideId "738590"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Qb6
+8. Nb3 a6 9. Be2 Be7 10. g4 Qc7 11. O-O-O b5 12. a3 Rb8 13. Rhe1 O-O 14. f4
+b4 15. axb4 Rxb4 16. Bxf6 Bxf6 17. g5 Bd4 18. Kb1 Qb6 19. Na2 Be3 20. Qxd6
+Rxe4 21. Rf1 g6 22. Bf3 Bxf4 23. Qd3 Re3 24. Qc4 Rxf3 25. Rxf3 Bxg5 26.
+Rff1 Ne7 27. Qb4 Qxb4 28. Nxb4 Nf5 29. Rfe1 Bf4 30. Nc5 Bxh2 31. Nbxa6 g5
+32. b4 g4 33. b5 h5 34. Rh1 g3 35. Rd2 h4 36. b6 Kg7 37. b7 Bxb7 38. Nxb7
+h3 39. Rdxh2 gxh2 40. Nbc5 Ng3 41. Rxh2 Rh8 42. Nd3 Nf1 43. Rh1 h2 44. Rxf1
+h1=Q 45. Rxh1 Rxh1+ 46. Kb2 Kf6 47. c4 e5 48. Nab4 e4 49. Nd5+ Ke6 50.
+N3f4+ Ke5 51. Ne2 Rh2 52. Nf4 Rf2 53. c5 Rf3 54. Ka2 f5 55. Kb2 Rxf4 56.
+Nxf4 Kxf4 57. c6 e3 58. Kc2 Kf3 59. c7 e2 60. c8=Q e1=Q 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.06"]
+[Round "3.2"]
+[White "Fedoseev, Vladimir3"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2704"]
+[BlackElo "2686"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[EventDate "2022.02.04"]
+[PlyCount "80"]
+[WhiteFideId "24130737"]
+[BlackFideId "1118358"]
+
+1. e4 c5 2. Nc3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qd2 g6 6. b3 Bh6 7. f4 f5 8.
+Bb2 Nf6 9. O-O-O Rf8 10. g3 fxe4 11. Bg2 Qa5 12. Nxe4 Qxd2+ 13. Nxd2 Ng4
+14. Ne4 Bf5 15. Rd2 O-O-O 16. Ne2 Ne3 17. Bf3 d5 18. N4c3 d4 19. Nd1 Nxd1
+20. Rhxd1 e5 21. h3 exf4 22. gxf4 d3 23. cxd3 Nb4 24. Bg4 Bxg4 25. hxg4
+Rxf4 26. Bg7 Bxg7 27. Nxf4 Bh6 28. Ne6 Bxd2+ 29. Rxd2 Rxd3 30. Rh2 Rd6 31.
+Nf8 h5 32. gxh5 gxh5 33. Rxh5 Nxa2+ 34. Kb1 Nb4 35. Nh7 Rd3 36. Kb2 b6 37.
+Nf6 Kb7 38. Rh7+ Ka6 39. Ne4 Nc6 40. Rh6 Kb7 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.07"]
+[Round "4.1"]
+[White "Oparin, Grigoriy"]
+[Black "Fedoseev, Vladimir3"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2681"]
+[BlackElo "2704"]
+[ECO "B30"]
+[Opening "Sicilian defence"]
+[EventDate "2022.02.04"]
+[PlyCount "82"]
+[WhiteFideId "24125890"]
+[BlackFideId "24130737"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 d6 5. d3 Be7 6. a4 Nf6 7. Bg5 Nd7 8.
+Bd2 O-O 9. Nd5 Nb6 10. Nxb6 axb6 11. c3 Kh8 12. b4 Qe8 13. b5 Nd8 14. h4 f5
+15. h5 Be6 16. Qb3 Qd7 17. Kd1 fxe4 18. dxe4 Bxc4 19. Qxc4 Qg4 20. Qd3 c4
+21. Qe3 Ne6 22. Rg1 Nf4 23. Kc1 Qxh5 24. Kc2 Qg6 25. g3 Nd3 26. Nh4 Qe6 27.
+Nf5 Rxf5 28. exf5 Qxf5 29. g4 Nb4+ 30. Kd1 Qc2+ 31. Ke1 Qb2 32. Rc1 Nd3+
+33. Ke2 Rf8 34. f3 e4 35. Rh1 d5 36. fxe4 Rf2+ 37. Kd1 Qb3+ 38. Rc2 Qb1+
+39. Rc1 Nxc1 40. Qxf2 Nd3+ 41. Ke2 Qxh1 0-1
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.07"]
+[Round "4.2"]
+[White "Rapport, Richard"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2686"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[EventDate "2022.02.04"]
+[PlyCount "114"]
+[WhiteFideId "738590"]
+[BlackFideId "1118358"]
+
+1. d4 Nf6 2. c4 e6 3. Bf4 d5 4. cxd5 exd5 5. e3 Bd6 6. Bxd6 Qxd6 7. Bd3 O-O
+8. Nc3 Bg4 9. Qb3 Nbd7 10. h3 Be6 11. Nf3 c5 12. Qa3 Rfc8 13. O-O Qf8 14.
+dxc5 Nxc5 15. Ne2 Bd7 16. Nfd4 Ne6 17. Qb3 Rc7 18. Rad1 Nxd4 19. Nxd4 Rac8
+20. a3 Qc5 21. Ne2 a6 22. Nd4 Qa5 23. Ra1 h6 24. Qb4 Qxb4 25. axb4 Kf8 26.
+g4 Ne4 27. Rfd1 h5 28. Kg2 hxg4 29. hxg4 Nd6 30. Be2 Nc4 31. b3 Ne5 32. Kg3
+Rc3 33. b5 axb5 34. Ra7 Nc6 35. Rxb7 Nxd4 36. Rxd4 Bc6 37. Ra7 Rxb3 38. g5
+g6 39. Bf3 Rc3 40. Rf4 Be8 41. Bxd5 R8c7 42. Ra8 Rc8 43. Ra7 R8c7 44. Rxc7
+Rxc7 45. Rf6 b4 46. e4 Bb5 47. Rb6 Bc4 48. Rxb4 Bxd5 49. exd5 Rc5 50. Rd4
+Ke7 51. d6+ Kd7 52. Kg4 Rc1 53. Kf4 Re1 54. Kg4 Rg1+ 55. Kf4 Re1 56. Rd5
+Re6 57. f3 Rxd6 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.09"]
+[Round "5.1"]
+[White "Rapport, Richard"]
+[Black "Oparin, Grigoriy"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2763"]
+[BlackElo "2681"]
+[ECO "D40"]
+[Opening "QGD"]
+[Variation "Semi-Tarrasch defence"]
+[EventDate "2022.02.04"]
+[PlyCount "115"]
+[WhiteFideId "738590"]
+[BlackFideId "24125890"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. e3 Nc6 6. cxd5 exd5 7. Bb5 cxd4
+8. Nxd4 Bd7 9. O-O Bd6 10. Nf3 Be6 11. b3 O-O 12. Bb2 Qe7 13. Rc1 Rac8 14.
+Bd3 a6 15. h3 Rfd8 16. Ne2 Ne4 17. Nf4 Bxf4 18. exf4 f6 19. Qe2 Qc7 20. Qe3
+Re8 21. Bb1 Bf5 22. Rfe1 Qf7 23. Red1 Ng3 24. Qd2 Re2 25. Qxd5 Qxd5 26.
+Rxd5 Rxb2 27. Bxf5 Nxf5 28. Rxf5 Rd8 29. Rfc5 Rxa2 30. R5c3 Re2 31. f5 h5
+32. Kf1 Re4 33. Re1 Rf4 34. Rc5 Rd6 35. Re6 Rd1+ 36. Ke2 Rb1 37. Nd2 Rb2
+38. Ke3 Rd4 39. Rcxc6 Rdxd2 40. Rc8+ Kh7 41. Rc7 Rxf2 42. Rxf6 Rxg2 43.
+Rxb7 Rxb3+ 44. Rxb3 gxf6 45. Rb6 Kg7 46. Rb7+ Kf8 47. Rb6 Ke7 48. Re6+ Kf7
+49. Rxa6 Rg3+ 50. Kf2 Rxh3 51. Ra7+ Kg8 52. Kg2 Re3 53. Rb7 Re5 54. Kg3
+Rxf5 55. Kh4 Re5 56. Ra7 Kf8 57. Rb7 Re7 58. Rb4 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.09"]
+[Round "5.2"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Fedoseev, Vladimir3"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2704"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[EventDate "2022.02.04"]
+[PlyCount "60"]
+[WhiteFideId "1118358"]
+[BlackFideId "24130737"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. a3 c5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. dxc5 Nxc5 11. Be2 Bf5 12. O-O Bf6 13. Be5 Rc8
+14. Bxf6 Qxf6 15. Nd4 Ne6 16. Nxf5 Qxf5 17. Bg4 Qe5 18. Qb3 Rc4 19. Bf3 Nc5
+20. Qd1 Rd8 21. Be2 Rh4 22. g3 Rh6 23. Qd4 Qxd4 24. exd4 Nb3 25. Rad1 Rc6
+26. Rd3 Nc1 27. Rd2 Nb3 28. Rd3 Nc1 29. Rd2 Nb3 30. Rd3 Nc1 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.10"]
+[Round "6.1"]
+[White "Oparin, Grigoriy"]
+[Black "Wojtaszek, Radoslaw"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2681"]
+[BlackElo "2686"]
+[ECO "A09"]
+[Opening "Reti"]
+[Variation "advance variation"]
+[EventDate "2022.02.04"]
+[PlyCount "78"]
+[WhiteFideId "24125890"]
+[BlackFideId "1118358"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. e3 Nf6 5. b5 Qc7 6. exd4 cxd4 7. Bb2 e5 8.
+Qe2 Bd6 9. Nxd4 O-O 10. Nc2 Nbd7 11. Nc3 Nc5 12. Ne3 Be6 13. Qd1 e4 14.
+Ncd5 Nxd5 15. cxd5 Bd7 16. Rc1 Rae8 17. Bd4 b6 18. Nc4 Nd3+ 19. Bxd3 exd3+
+20. Ne3 Qd8 21. g3 Re4 22. Ba1 f5 23. Qb3 Qe8 24. Rc6 Bxc6 25. dxc6+ Qe6
+26. Qxd3 Bc5 27. Qb3 Qxb3 28. axb3 Rb4 29. Ke2 Rxb5 30. d4 Bd6 31. Rd1 f4
+32. Nc4 f3+ 33. Kd3 Bb8 34. Kc2 Rd8 35. Ne3 Kf7 36. d5 Rc5+ 37. Kb1 Rb5 38.
+Kc2 Rc5+ 39. Kb1 Rb5 1/2-1/2
+
+[Event "FIDE Grand Prix 1 Pool B"]
+[Site "Berlin GER"]
+[Date "2022.02.10"]
+[Round "6.2"]
+[White "Fedoseev, Vladimir3"]
+[Black "Rapport, Richard"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2704"]
+[BlackElo "2763"]
+[ECO "D02"]
+[Opening "Queen's pawn game, Chigorin variation"]
+[EventDate "2022.02.04"]
+[PlyCount "152"]
+[WhiteFideId "24130737"]
+[BlackFideId "738590"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bg4 4. Nbd2 e6 5. e3 Bd6 6. Bxd6 cxd6 7. c4 dxc4
+8. Bxc4 Nf6 9. h3 Bh5 10. Qb3 Rb8 11. Bb5 O-O 12. O-O Na5 13. Qa3 a6 14.
+Bd3 b5 15. Rac1 Qb6 16. Rc2 Rfc8 17. Rfc1 Rxc2 18. Rxc2 Nd5 19. Rc1 Rd8 20.
+Nh4 f5 21. Bb1 Be2 22. Re1 Nc4 23. Nxc4 Bxc4 24. Nf3 Nf6 25. Rc1 h6 26. Ne1
+a5 27. Bd3 Bd5 28. Be2 Kh7 29. Bf3 Bc4 30. b3 Bd5 31. Qb2 b4 32. Qc2 Rd7
+33. Qc8 Rd8 34. Qc2 Rd7 35. Qc8 Rd8 36. Qc2 Kg8 37. Bxd5 Nxd5 38. Qc4 Kf7
+39. Nd3 g5 40. Nb2 h5 41. Qc6 Qa7 42. Nc4 Ke7 43. Re1 Qa8 44. Qxa8 Rxa8 45.
+a4 Nf6 46. Rc1 Rc8 47. Rb1 d5 48. Ne5 Rc3 49. g3 Rc2 50. Nd3 Ne4 51. h4 Nd2
+52. Rc1 Rxc1+ 53. Nxc1 gxh4 54. gxh4 f4 55. Kg2 Kf6 56. Nd3 fxe3 57. fxe3
+Nxb3 58. Kf3 Nd2+ 59. Ke2 Ne4 60. Nf4 Ng3+ 61. Kd2 Kf5 62. Kd3 Kg4 63. Nxe6
+Ne4 64. Nf4 Nc3 65. Ng6 Nxa4 66. e4 dxe4+ 67. Kxe4 Nc3+ 68. Kd3 a4 69. Kc4
+a3 70. Kb3 a2 71. Kb2 b3 72. Ne5+ Kxh4 73. Nf3+ Kg3 74. Nd2 h4 75. Nxb3 h3
+76. Kxc3 h2 0-1
+

@@ -1,0 +1,335 @@
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.01"]
+[Round "1.1"]
+[White "Yu, Yangyi"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2767"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[EventDate "2022.03.01"]
+[PlyCount "71"]
+[WhiteFideId "8603820"]
+[BlackFideId "13401319"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2
+Nd5 8. h4 Qe6 9. Nd2 d6 10. exd6 Bxd6 11. Nc4 Bc5 12. a3 O-O 13. Qxe6 Bxe6
+14. Bd3 Rfe8 15. O-O Nf6 16. Be3 Bb6 17. Nxb6 cxb6 18. Rfe1 Nd7 19. Rad1
+Ne5 20. Bf1 Bc4 21. b3 Bxf1 22. Kxf1 f6 23. Rd6 Rad8 24. Red1 Rxd6 25. Rxd6
+Kf7 26. Bf4 c5 27. a4 Re6 28. Bxe5 Rxe5 29. Rd7+ Re7 30. Rd8 Kg6 31. Rd5
+Re4 32. g3 c4 33. a5 cxb3 34. cxb3 bxa5 35. Rxa5 Rb4 36. Rxa7 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.01"]
+[Round "1.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Predke, Alexandr"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2682"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[EventDate "2022.03.01"]
+[PlyCount "106"]
+[WhiteFideId "623539"]
+[BlackFideId "24107581"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a3 h6 13. Bc2 Nb8 14. b3 Nbd7
+15. Bb2 Rc8 16. a4 Rb8 17. axb5 axb5 18. Bd3 d5 19. dxe5 dxe4 20. Nxe4 Nxe5
+21. Nxe5 Rxe5 22. Qb1 Bxe4 23. Bxe4 Rxe4 24. Rxe4 Nxe4 25. Qxe4 Qd2 26. Rb1
+Bc5 27. Qf5 Be7 28. Ba1 Bf6 29. c4 Bxa1 30. Rxa1 bxc4 31. bxc4 Qc3 32. Rd1
+Qxc4 33. Rd7 Re8 34. Kh2 c6 35. Rc7 Qe6 36. Qxe6 Rxe6 37. f4 g6 38. g4 Kf8
+39. Kg2 Re2+ 40. Kf3 Rc2 41. h4 Rc4 42. h5 Kg7 43. hxg6 Kxg6 44. Rd7 Rc1
+45. Rd6+ Kg7 46. Kg3 c5 47. Rc6 Rc3+ 48. Kh4 Rc4 49. Kg3 Rc1 50. Kh4 c4 51.
+g5 hxg5+ 52. Kxg5 c3 53. Kf5 c2 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.02"]
+[Round "2.1"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2767"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[EventDate "2022.03.01"]
+[PlyCount "63"]
+[WhiteFideId "623539"]
+[BlackFideId "13401319"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Bc2 Bg4 11. Qe1 O-O 12. Nd4 Nxe5 13. f3 c5 14. Ne2
+Bh4 15. Ng3 Re8 16. fxe4 dxe4 17. Be3 Nd3 18. Bxd3 exd3 19. Qf2 f5 20. Nd2
+Be2 21. Rfe1 g5 22. Nf3 f4 23. Nxh4 fxe3 24. Qf5 d2 25. Rxe2 d1=Q+ 26. Rxd1
+Qxd1+ 27. Nf1 Qxe2 28. Qxg5+ Kf7 29. Qf5+ Kg8 30. Qg5+ Kf7 31. Qf5+ Kg8 32.
+Qg5+ 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.02"]
+[Round "2.2"]
+[White "Predke, Alexandr"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2682"]
+[BlackElo "2713"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[EventDate "2022.03.01"]
+[PlyCount "70"]
+[WhiteFideId "24107581"]
+[BlackFideId "8603820"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 Nc6 5. Nxe5 Nxe5 6. dxe5 Nc5 7. Bc4
+d6 8. Qf3 Ne6 9. exd6 Bxd6 10. Be3 Bd7 11. Bd5 c6 12. Bc4 O-O 13. Nd2 b5
+14. Bb3 a5 15. a3 Qc7 16. Ne4 Be5 17. O-O-O a4 18. Ba2 Rad8 19. Nc5 Bc8 20.
+Nxe6 Bxe6 21. Bxe6 fxe6 22. Qe4 Rd5 23. f4 Bxf4 24. Qxe6+ Qf7 25. Qxf7+
+Rxf7 26. Bxf4 Rxd1+ 27. Kxd1 Rxf4 28. Ke2 Kf7 29. Ke3 Rc4 30. Kd3 Ke6 31.
+Re1+ Kd5 32. Re7 Rg4 33. g3 h5 34. b3 g6 35. Rg7 h4 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.03"]
+[Round "3.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Predke, Alexandr"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2682"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[EventDate "2022.03.01"]
+[PlyCount "110"]
+[WhiteFideId "13401319"]
+[BlackFideId "24107581"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 O-O 6. e3 c5 7. cxd5 exd5 8.
+Be2 h6 9. Bxf6 Qxf6 10. O-O Bxc3 11. bxc3 Be6 12. Ne5 Nd7 13. Nxd7 Bxd7 14.
+dxc5 Be6 15. Qd4 Qe7 16. Rab1 Rfc8 17. Rb5 a6 18. Ra5 Rc7 19. Rb1 Rac8 20.
+Bd3 Qf8 21. f4 Bd7 22. Ra3 Qxc5 23. Qxc5 Rxc5 24. Rxb7 Rxc3 25. Rxc3 Rxc3
+26. Bxa6 Bf5 27. Rb3 Rc2 28. Bd3 Bxd3 29. Rxd3 Rxa2 30. Rxd5 g6 31. h4 h5
+32. f5 Kg7 33. fxg6 Kxg6 34. Kh2 Ra3 35. Rg5+ Kh6 36. Re5 Ra4 37. Kg3 f6
+38. Rf5 Kg6 39. Rf4 Ra1 40. Rb4 Rf1 41. Rf4 Ra1 42. Kf2 Rh1 43. g3 Ra1 44.
+g4 hxg4 45. Rxg4+ Kf7 46. Kg2 Ra5 47. Rg3 Rh5 48. Rh3 Kg6 49. Kf3 Rf5+ 50.
+Kg4 Re5 51. Rg3 Rf5 52. e4 Re5 53. Kf4+ Kf7 54. Rd3 Rh5 55. Kg4 Re5 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.03"]
+[Round "3.2"]
+[White "Yu, Yangyi"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2761"]
+[ECO "D87"]
+[Opening "Gruenfeld"]
+[Variation "exchange, Spassky variation"]
+[EventDate "2022.03.01"]
+[PlyCount "76"]
+[WhiteFideId "8603820"]
+[BlackFideId "623539"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5
+8. Ne2 O-O 9. O-O Nc6 10. Be3 b6 11. Rc1 Bb7 12. Bb5 Rc8 13. Qd2 cxd4 14.
+cxd4 e6 15. Rfd1 Qd6 16. h4 a6 17. Bxc6 Bxc6 18. e5 Qd5 19. f3 f6 20. Nf4
+Qd7 21. d5 Bxd5 22. Nxd5 exd5 23. Rxc8 Rxc8 24. Qxd5+ Qxd5 25. Rxd5 fxe5
+26. Bxb6 Rc4 27. Ra5 e4 28. fxe4 Rxe4 29. Rxa6 Bd4+ 30. Bxd4 Rxd4 31. g3
+Kg7 32. Kf2 Rd3 33. a4 h5 34. a5 Ra3 35. Ra8 Kf6 36. a6 Kg7 37. Ra7+ Kf6
+38. Ra8 Kg7 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.04"]
+[Round "4.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2713"]
+[ECO "D38"]
+[Opening "QGD"]
+[Variation "Ragozin variation"]
+[EventDate "2022.03.01"]
+[PlyCount "60"]
+[WhiteFideId "13401319"]
+[BlackFideId "8603820"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 c5 8.
+cxd5 exd5 9. Bd3 cxd4 10. Nxd4 Nc6 11. O-O Bxc3 12. bxc3 O-O 13. a4 Ne5 14.
+Be2 Rd8 15. Qb3 Qg6 16. Kh1 Rb8 17. a5 Bg4 18. f3 Bf5 19. Rfd1 Nc6 20. Rd2
+Qg5 21. Rb2 Nxd4 22. cxd4 b6 23. Bd3 Bxd3 24. Qxd3 bxa5 25. Re2 Rdc8 26.
+Qa6 Rc3 27. Qxa5 Rbc8 28. Rae1 Rc2 29. h3 Rxe2 30. Rxe2 Qg3 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.04"]
+[Round "4.2"]
+[White "Predke, Alexandr"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2682"]
+[BlackElo "2761"]
+[ECO "B95"]
+[Opening "Sicilian"]
+[Variation "Najdorf, 6...e6"]
+[EventDate "2022.03.01"]
+[PlyCount "88"]
+[WhiteFideId "24107581"]
+[BlackFideId "623539"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. Qf3 Be7 8.
+O-O-O Qa5 9. h4 Bd7 10. Bc4 Nc6 11. Bb3 h6 12. Be3 Ne5 13. Qe2 Rc8 14. Kb1
+b5 15. f4 Neg4 16. e5 dxe5 17. fxe5 Nxe5 18. Bxh6 Rxh6 19. Qxe5 Qc7 20. Qe2
+Qf4 21. Rh3 Rc5 22. Re3 Qg4 23. Nf3 Bc6 24. a4 Kf8 25. axb5 axb5 26. g3 b4
+27. Na2 Rf5 28. Nd4 Qxe2 29. Rxe2 Bf3 30. Rxe6 Bxd1 31. Rxe7 Bxc2+ 32. Kxc2
+Rc5+ 33. Kd3 Kxe7 34. Nxb4 Nd7 35. Nd5+ Kf8 36. Nf5 Rg6 37. Nde3 Rb6 38.
+Nd4 Ne5+ 39. Ke4 Nc6 40. Bd5 Ne7 41. b3 Rg6 42. b4 Rc3 43. Bc4 Rxg3 44.
+Ndc2 Rg4+ 0-1
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.06"]
+[Round "5.1"]
+[White "Predke, Alexandr"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2682"]
+[BlackElo "2767"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[EventDate "2022.03.01"]
+[PlyCount "115"]
+[WhiteFideId "24107581"]
+[BlackFideId "13401319"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. h3 h6 7. c3 d6 8.
+Re1 a5 9. Nbd2 Be6 10. Bb5 Nd7 11. Nf1 f5 12. exf5 Bxf5 13. Ng3 Bg6 14. d4
+exd4 15. cxd4 Bb6 16. a3 Nf6 17. Kh2 Nh5 18. Bd3 Nxg3 19. Bxg6 Nf5 20. Re4
+Qf6 21. Bxf5 Qxf5 22. Rg4 Rf6 23. Qb3+ Kh8 24. Rf4 Qg6 25. Nh4 Qh5 26. Rxf6
+gxf6 27. Nf3 Nxd4 28. Nxd4 Qe5+ 29. g3 Bxd4 30. Be3 b6 31. Re1 Rf8 32. Qc2
+f5 33. Qxc7 f4 34. Qe7 fxg3+ 35. fxg3 Qxe7 36. Bxd4+ Qg7 37. Bxg7+ Kxg7 38.
+Kg2 Rc8 39. Kf3 Kf6 40. Re3 Rc5 41. Ke4 Rh5 42. Rf3+ Ke6 43. g4 Rb5 44. b3
+h5 45. Kf4 Kf6 46. h4 hxg4 47. Kxg4+ Kg7 48. Rd3 Kf7 49. Kf4 Rh5 50. Kg4
+Rb5 51. Rf3+ Kg6 52. Re3 Kh6 53. Rd3 Kg7 54. h5 Kh7 55. Re3 Kh6 56. Re6+
+Kh7 57. Re7+ Kh6 58. Re6+ 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.06"]
+[Round "5.2"]
+[White "Vachier-Lagrave, Maxime"]
+[Black "Yu, Yangyi"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2713"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[EventDate "2022.03.01"]
+[PlyCount "112"]
+[WhiteFideId "623539"]
+[BlackFideId "8603820"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 Nc6 5. O-O d5 6. dxe5 Bg4 7. Nc3 Nxc3
+8. bxc3 Bc5 9. Re1 O-O 10. h3 Bh5 11. Rb1 f6 12. e6 Qd6 13. Rxb7 Ne5 14.
+Be2 Qxe6 15. Rb5 Qd6 16. Nxe5 Bxe2 17. Qxe2 fxe5 18. Be3 Bb6 19. Bxb6 axb6
+20. c4 c6 21. Rxb6 Qc5 22. Rb7 e4 23. cxd5 cxd5 24. c4 dxc4 25. Qc2 Rae8
+26. Re3 Qd4 27. Rb4 Rc8 28. a4 Rfd8 29. Rb1 c3 30. Rc1 Rc4 31. a5 Rdc8 32.
+Rd1 Qc5 33. Rxe4 Rxe4 34. Qxe4 c2 35. Rc1 h6 36. a6 Rc7 37. g3 Qc6 38. Qd3
+Qc4 39. Qd2 Kh7 40. Kh2 Qxa6 41. Rxc2 Rxc2 42. Qxc2+ Kh8 43. h4 Qf1 44.
+Qc8+ Kh7 45. Qf5+ Kg8 46. g4 Qc4 47. Kg3 Qc3+ 48. Kg2 Qc4 49. Kg3 Qc3+ 50.
+Qf3 Qc7+ 51. Qf4 Qc3+ 52. Qe3 Qc7+ 53. f4 Qf7 54. f5 Qc7+ 55. Kh3 Qd7 56.
+Qf3 Qd2 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.07"]
+[Round "6.1"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2767"]
+[BlackElo "2761"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "exchange, positional line, 5...c6"]
+[EventDate "2022.03.01"]
+[PlyCount "69"]
+[WhiteFideId "13401319"]
+[BlackFideId "623539"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Qc2 Nbd7
+8. Bd3 h6 9. Bf4 Nh5 10. Nf3 Nxf4 11. exf4 Bd6 12. g3 O-O 13. O-O-O b5 14.
+Ne5 Qc7 15. Kb1 Nb6 16. Rhg1 b4 17. Na4 Nxa4 18. Qxa4 c5 19. dxc5 Qxc5 20.
+Nd7 Bxd7 21. Qxd7 Rfd8 22. Qf5 g6 23. Qg4 b3 24. a3 Be7 25. f5 g5 26. f4
+Bf6 27. fxg5 hxg5 28. Rg2 Rac8 29. h4 Qe3 30. Re2 Rc1+ 31. Rxc1 Qxd3+ 32.
+Ka1 Qa6 33. Kb1 Qd3+ 34. Ka1 Qa6 35. Kb1 1/2-1/2
+
+[Event "FIDE Grand Prix 2 Pool D"]
+[Site "Belgrade SRB"]
+[Date "2022.03.07"]
+[Round "6.2"]
+[White "Yu, Yangyi"]
+[Black "Predke, Alexandr"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2713"]
+[BlackElo "2682"]
+[ECO "C92"]
+[Opening "Ruy Lopez"]
+[Variation "closed, 9.h3"]
+[EventDate "2022.03.01"]
+[PlyCount "166"]
+[WhiteFideId "8603820"]
+[BlackFideId "24107581"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8.
+c3 O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. Bc2 Nb8 13. b3 Nbd7 14. d5 c6
+15. c4 Nb6 16. Rb1 Qc7 17. Bd3 Nfd7 18. Ba3 Nc5 19. Bf1 Qd7 20. Rc1 Rac8
+21. Bxc5 dxc5 22. a4 b4 23. a5 Na8 24. h4 Nc7 25. g3 Rcd8 26. Bg2 Bc8 27.
+Nf1 cxd5 28. cxd5 Nb5 29. Ne3 Qc7 30. Ra1 g6 31. Qd3 f5 32. h5 fxe4 33.
+Qxe4 Nd6 34. Qh4 Be7 35. Qh1 e4 36. Nd2 Bf6 37. Rad1 Bc3 38. Re2 Re5 39.
+hxg6 hxg6 40. Qh6 Qg7 41. Qh4 Rf8 42. Ndc4 Rh5 43. Nxd6 Rxh4 44. gxh4 Bd7
+45. Nxe4 Bd4 46. d6 Qh8 47. Nc2 Bg4 48. Nxd4 cxd4 49. f3 Bf5 50. Red2 Bxe4
+51. fxe4 Qxh4 52. d7 Kg7 53. Rf1 Rxf1+ 54. Kxf1 Qf4+ 55. Ke1 Qd6 56. Bh3 d3
+57. Bf1 Qg3+ 58. Kd1 Qf3+ 59. Ke1 Qxe4+ 60. Kf2 Qf4+ 61. Kg1 Qd4+ 62. Kg2
+Qd5+ 63. Kg1 Qxd7 64. Rxd3 Qf5 65. Rg3 Qxa5 66. Bd3 g5 67. Kf2 Qc5+ 68. Ke2
+a5 69. Rf3 Qe5+ 70. Kf2 Qd4+ 71. Kf1 g4 72. Rg3 Qf4+ 73. Kg2 Qd2+ 74. Kg1
+Kf6 75. Bf1 Qd4+ 76. Kg2 Qe4+ 77. Kf2 Qf4+ 78. Kg2 Kg5 79. Be2 Kh4 80. Rd3
+Qe5 81. Bf1 g3 82. Kg1 Qc5+ 83. Kh1 Qf2 0-1
+
