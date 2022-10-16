@@ -1,0 +1,334 @@
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.22"]
+[Round "1.1"]
+[White "Esipenko, Andrey"]
+[Black "Oparin, Grigoriy"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2674"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[EventDate "2022.03.22"]
+[PlyCount "111"]
+[WhiteFideId "24175439"]
+[BlackFideId "24125890"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qa4 a6 8.
+Qxc4 b5 9. Qc2 Bb7 10. Bd2 Be4 11. Qc1 c6 12. a4 Nbd7 13. Nc3 Bg6 14. Nh4
+Bh5 15. h3 Rc8 16. axb5 cxb5 17. Qd1 b4 18. Na4 Rc4 19. Bc1 Nb6 20. Nxb6
+Qxb6 21. g4 Bg6 22. Nxg6 hxg6 23. Qd3 Qxd4 24. Qxd4 Rxd4 25. Rxa6 Rc8 26.
+g5 Nh7 27. Be3 Rdc4 28. b3 Rc3 29. h4 Rxb3 30. Ra7 Bd6 31. Rd1 Be5 32. Rb7
+Nf8 33. Rb5 f6 34. Bc5 Rc3 35. Bxb4 Rb3 36. Rc5 Rb8 37. Ba5 Rb1 38. Rxb1
+Rxb1+ 39. Bf1 Nd7 40. Rc6 Kf7 41. e3 Ra1 42. Bd2 Ra2 43. Bc1 Ra7 44. f4 Rc7
+45. Bb5 Rxc6 46. Bxc6 Nb8 47. Bb5 Bd6 48. Kg2 Ke7 49. Kf3 Nd7 50. e4 Bb4
+51. Bb2 Nc5 52. Bc4 Nb7 53. Bd3 Kf7 54. Bd4 Nd6 55. Bf2 f5 56. exf5 1/2-1/2
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.22"]
+[Round "1.2"]
+[White "Aronian, Levon"]
+[Black "Nakamura, Hikaru"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2750"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[EventDate "2022.03.22"]
+[PlyCount "129"]
+[WhiteFideId "13300474"]
+[BlackFideId "2016192"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. a4 c6 5. axb5 cxb5 6. Nc3 Qb6 7. Nd5 Qb7 8.
+Bf4 e5 9. Bxe5 Nd7 10. Bf4 Ngf6 11. Nc7+ Kd8 12. Nxa8 Qxe4+ 13. Ne2 Qxa8
+14. Qd2 Nd5 15. Nc3 Bb4 16. Be2 Re8 17. Bg3 N7f6 18. O-O Ne4 19. Qc2 Bf5
+20. Bh4+ f6 21. Bf3 Bxc3 22. bxc3 g5 23. Rfe1 Nf4 24. Qa2 Qb7 25. Qxa7 Qxa7
+26. Rxa7 Re6 27. Bxe4 Rxe4 28. f3 Re2 29. Bf2 b4 30. cxb4 c3 31. Rxe2 Nxe2+
+32. Kh1 c2 33. Be3 c1=R+ 34. Bxc1 Nxc1 35. b5 Kc8 36. b6 Kb8 37. d5 Nd3 38.
+g4 Bc8 39. Rf7 Ba6 40. Rxf6 Kb7 41. Kg1 Bb5 42. Rf5 Nf4 43. h4 Bd3 44. Rf6
+Bb1 45. hxg5 Nxd5 46. Rf8 Nxb6 47. f4 Kc6 48. Kf2 Nd7 49. Rf7 Nc5 50. Kg3
+Bg6 51. Rf8 Ne6 52. Rg8 Kd6 53. Ra8 Bb1 54. Ra1 Be4 55. Rd1+ Bd5 56. Rd2
+Nc7 57. Kh4 Ne6 58. f5 Nc5 59. Kh5 Ke5 60. Kh6 Ne4 61. Rb2 Bc4 62. Rb4 Bd3
+63. Rxe4+ Bxe4 64. Kxh7 Kf4 65. Kh6 1-0
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.23"]
+[Round "2.1"]
+[White "Aronian, Levon"]
+[Black "Oparin, Grigoriy"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2674"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[EventDate "2022.03.22"]
+[PlyCount "80"]
+[WhiteFideId "13300474"]
+[BlackFideId "24125890"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 h6 7. Re1 O-O 8.
+Nbd2 Bb6 9. h3 Ne7 10. d4 Nc6 11. a4 a5 12. Ra3 exd4 13. cxd4 Nxd4 14. Nxd4
+Bxd4 15. Rd3 Be5 16. Nf3 Qe7 17. Nh4 Nd5 18. Qh5 Nf6 19. Ng6 Nxh5 20. Nxe7+
+Kh7 21. g4 Nf4 22. Bxf4 Bxf4 23. Nd5 Be6 24. Nxf4 Bxc4 25. Rc3 b5 26. Rd1
+Ra7 27. b3 Be6 28. axb5 Rb8 29. e5 Rxb5 30. Nxe6 fxe6 31. exd6 cxd6 32.
+Rxd6 Rab7 33. Rdd3 e5 34. Kg2 e4 35. Re3 h5 36. gxh5 Rg5+ 37. Kf1 Rgb5 38.
+Ke2 Kh6 39. Rg3 Rxh5 40. Rc4 Re5 1/2-1/2
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.23"]
+[Round "2.2"]
+[White "Nakamura, Hikaru"]
+[Black "Esipenko, Andrey"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2723"]
+[ECO "E46"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O"]
+[EventDate "2022.03.22"]
+[PlyCount "127"]
+[WhiteFideId "2016192"]
+[BlackFideId "24175439"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd2 d5 6. Nf3 b6 7. cxd5 exd5 8.
+Bd3 Re8 9. O-O Bb7 10. Ne5 Bf8 11. f4 c5 12. Be1 cxd4 13. exd4 Nc6 14. Bf2
+a6 15. a3 b5 16. Rc1 Qd6 17. Qf3 Rac8 18. Rfe1 Na5 19. b4 Nc4 20. Bxc4 bxc4
+21. Na4 Ne4 22. Nc5 Ba8 23. Qe2 a5 24. Qa2 axb4 25. axb4 Rb8 26. Nxe4 dxe4
+27. Nxc4 Qe6 28. Qe2 Rxb4 29. Be3 Bd5 30. Nd2 Rb2 31. Rb1 Reb8 32. Rxb2
+Rxb2 33. Rb1 Qb6 34. Qf1 Qb4 35. Rxb2 Qxb2 36. Qb1 Qa3 37. Kf2 h6 38. Qb5
+Qa8 39. f5 Be7 40. g3 Bf6 41. h4 Qa2 42. Qb8+ Kh7 43. Qb1 Qa8 44. Qb5 Kg8
+45. Kg1 Kh8 46. Kg2 Qa2 47. Qc5 Kh7 48. Kf2 Bd8 49. Qf8 Bf6 50. Qc5 h5 51.
+Kg1 Bd8 52. Qf8 Bf6 53. Qc5 Qa8 54. Qb5 Kg8 55. Kf2 Bc6 56. Qc5 Bd5 57. Bg5
+Qa2 58. Qc3 Qa4 59. Bxf6 gxf6 60. Qe3 Qc2 61. Qe2 Qc3 62. Qe3 Qc2 63. Qe2
+Qc3 64. Qe3 1/2-1/2
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.24"]
+[Round "3.1"]
+[White "Oparin, Grigoriy"]
+[Black "Nakamura, Hikaru"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2674"]
+[BlackElo "2750"]
+[ECO "E73"]
+[Opening "King's Indian"]
+[Variation "5.Be2"]
+[EventDate "2022.03.22"]
+[PlyCount "65"]
+[WhiteFideId "24125890"]
+[BlackFideId "2016192"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. h4 c5 7. d5 e6 8. h5
+exd5 9. exd5 Re8 10. h6 Bh8 11. Bg5 Qb6 12. b3 Ne4 13. Nxe4 Rxe4 14. Kf1
+Na6 15. Bd3 Bg4 16. f3 Rd4 17. Qe2 Bd7 18. Re1 Nb4 19. Bxg6 Nxd5 20. Bxh7+
+Kxh7 21. Qc2+ f5 22. cxd5 Be5 23. Ne2 Qa6 24. Kf2 Qd3 25. Qxd3 Rxd3 26. Rd1
+Rxd1 27. Rxd1 a5 28. Rd3 a4 29. Re3 axb3 30. axb3 Ra2 31. Kg1 Ra1+ 32. Kf2
+Ra2 33. Kg1 1/2-1/2
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.24"]
+[Round "3.2"]
+[White "Esipenko, Andrey"]
+[Black "Aronian, Levon"]
+[Result "1/2-1/2"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2785"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[EventDate "2022.03.22"]
+[PlyCount "66"]
+[WhiteFideId "24175439"]
+[BlackFideId "13300474"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 d5 6. exd5 Qxd5 7. Bc4 Qd6
+8. Nbd2 O-O 9. b4 Bb6 10. O-O Bf5 11. Qc2 Rad8 12. Ne4 Nxe4 13. dxe4 Bg4
+14. Qe2 Qg6 15. a4 a6 16. h3 Bxh3 17. Bg5 h6 18. gxh3 hxg5 19. Kh2 g4 20.
+Nh4 Qg5 21. Qxg4 Qxg4 22. hxg4 Rd2 23. Kg2 Rfd8 24. Nf3 Rc2 25. Rac1 Rb2
+26. a5 Be3 27. Rb1 Rxb1 28. Rxb1 Bf4 29. Bd5 Rd6 30. b5 Nxa5 31. Ra1 c6 32.
+Rxa5 cxd5 33. bxa6 Rxa6 1/2-1/2
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.25"]
+[Round "4.1"]
+[White "Oparin, Grigoriy"]
+[Black "Esipenko, Andrey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2674"]
+[BlackElo "2723"]
+[ECO "E48"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3 d5"]
+[EventDate "2022.03.22"]
+[PlyCount "119"]
+[WhiteFideId "24125890"]
+[BlackFideId "24175439"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. cxd5 exd5 7. a3 Bd6 8.
+Qc2 c6 9. Nge2 Re8 10. Bd2 c5 11. dxc5 Bxc5 12. Nb5 Bb6 13. Bc3 Nc6 14. O-O
+Ne5 15. Nf4 a6 16. Nd4 Nxd3 17. Qxd3 Ne4 18. Nde2 Nxc3 19. Qxc3 Bg4 20. h3
+Bxe2 21. Nxe2 Qd6 22. Rfd1 Rad8 23. Rd3 Rd7 24. Rad1 Qc6 25. Qb4 Red8 26.
+Nc3 Bc5 27. Qg4 Bb6 28. R1d2 Ba5 29. b4 Bb6 30. Qd1 d4 31. exd4 a5 32. d5
+Qd6 33. Ne4 Qe7 34. Re2 axb4 35. d6 Qe6 36. Rd5 Qg6 37. axb4 f5 38. Nc5
+Rxd6 39. Rxd6 Rxd6 40. Qb3+ Kh8 41. Nxb7 Rc6 42. Nc5 Bxc5 43. bxc5 h6 44.
+Qd5 Kh7 45. Re5 Rf6 46. Kh2 Qg5 47. Qd4 Qc1 48. Rd5 Rf7 49. Qe5 Qc2 50. f3
+Qa4 51. Rd6 Qa5 52. f4 Qb5 53. Re6 Qc4 54. c6 Qc2 55. Rd6 Qa4 56. h4 h5 57.
+Qe3 Qc4 58. Qf3 g6 59. Qe3 Qa4 60. Qd4 1-0
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.25"]
+[Round "4.2"]
+[White "Nakamura, Hikaru"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2785"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[EventDate "2022.03.22"]
+[PlyCount "99"]
+[WhiteFideId "2016192"]
+[BlackFideId "13300474"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 d5 6. exd5 Qxd5 7. Bc4 Qd6
+8. Nbd2 O-O 9. b4 Bb6 10. O-O Bf5 11. Qc2 Rad8 12. a4 a5 13. b5 Ne7 14. Qa2
+Ng6 15. Ba3 Bc5 16. Bxc5 Qxc5 17. d4 Qd6 18. Rfe1 exd4 19. cxd4 Nd5 20.
+Bxd5 Qxd5 21. Qxd5 Rxd5 22. Nc4 Bg4 23. Nxa5 b6 24. Nc6 Bxf3 25. gxf3 h6
+26. Rac1 Kh7 27. Rc4 Rg5+ 28. Kf1 Rh5 29. Ne7 Rxh2 30. Re4 Rh1+ 31. Kg2 Ra1
+32. Nxg6 fxg6 33. Rxc7 Rxa4 34. d5 Raa8 35. Ree7 h5 36. d6 Rf5 37. Rxg7+
+Kh6 38. Rh7+ Kg5 39. d7 Rd5 40. f4+ Kh4 41. Rg7 Ra4 42. Rc8 Rad4 43. Rxg6
+Rxd7 44. Rc1 Rd1 45. Rxd1 Rxd1 46. Rxb6 Kg4 47. Rb8 Kxf4 48. b6 Rd7 49.
+Rf8+ Ke4 50. Rf3 1-0
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.27"]
+[Round "5.1"]
+[White "Nakamura, Hikaru"]
+[Black "Oparin, Grigoriy"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2750"]
+[BlackElo "2674"]
+[ECO "E36"]
+[Opening "Nimzo-Indian"]
+[Variation "classical, Noa variation, 5.a3"]
+[EventDate "2022.03.22"]
+[PlyCount "113"]
+[WhiteFideId "2016192"]
+[BlackFideId "24125890"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Nf3 dxc4
+8. Qxc4 b6 9. h4 Ba6 10. Qc2 c5 11. dxc5 Nbd7 12. c6 Rc8 13. Bg5 Bb7 14.
+Nd4 Ne5 15. Rd1 Qe7 16. Rh3 Nxc6 17. Nxc6 Rxc6 18. Qa4 h6 19. Bxf6 Qxf6 20.
+Qxa7 Ba8 21. Rb3 Rd8 22. Rbd3 Rdc8 23. Rd4 e5 24. R4d2 Qxh4 25. g3 Qh1 26.
+Qe7 Rf6 27. Rd8+ Rxd8 28. Qxd8+ Kh7 29. f3 Be4 30. Rd6 Rxd6 31. Qxd6 Qg1
+32. Qxe5 Bg6 33. g4 f6 34. Qf4 Qc5 35. Qd2 f5 36. gxf5 Bxf5 37. e3 Qe5 38.
+f4 Qe7 39. Bg2 h5 40. Qd4 Qh4+ 41. Kf1 Qg4 42. Qd2 h4 43. Qe2 g5 44. Qxg4
+Bxg4 45. Bc6 Kg6 46. b4 gxf4 47. exf4 Kf6 48. a4 Ke7 49. Be4 Kd6 50. f5 Bd1
+51. a5 bxa5 52. bxa5 Kc5 53. f6 Bb3 54. Bd3 Kd6 55. a6 Bd5 56. a7 Kc7 57.
+a8=R 1-0
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.27"]
+[Round "5.2"]
+[White "Aronian, Levon"]
+[Black "Esipenko, Andrey"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2723"]
+[ECO "E51"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 e8g8, 5.Nf3 d7d5"]
+[EventDate "2022.03.22"]
+[PlyCount "45"]
+[WhiteFideId "13300474"]
+[BlackFideId "24175439"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd2 b6 7. cxd5 exd5 8.
+Bd3 Bb7 9. Qc2 Re8 10. a3 Bf8 11. Ng5 g6 12. h4 c5 13. h5 h6 14. hxg6 hxg5
+15. gxf7+ Kxf7 16. Bg6+ Ke7 17. Qf5 Bg7 18. e4 Nc6 19. Bxe8 Qxe8 20. Nxd5+
+Nxd5 21. Bxg5+ Kd6 22. Qxd5+ Kc7 23. Rh7 1-0
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.28"]
+[Round "6.1"]
+[White "Oparin, Grigoriy"]
+[Black "Aronian, Levon"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2674"]
+[BlackElo "2785"]
+[ECO "E04"]
+[Opening "Catalan"]
+[Variation "open, 5.Nf3"]
+[EventDate "2022.03.22"]
+[PlyCount "61"]
+[WhiteFideId "24125890"]
+[BlackFideId "13300474"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Qa4 Bd7 8.
+Qxc4 b5 9. Qd3 c4 10. Qd1 Rc8 11. Bf4 h6 12. a3 g5 13. Bd2 Bg7 14. Nc3 a6
+15. e3 O-O 16. Ne5 Nxe5 17. dxe5 Ne8 18. f4 f6 19. Ne4 fxe5 20. Ba5 Qxa5
+21. Qxd7 Nc7 22. fxg5 hxg5 23. Nxg5 Qb6 24. h4 Rcd8 25. Rxf8+ Rxf8 26. Kh2
+e4 27. Rd1 Kh8 28. Rd6 Qb8 29. Rc6 Ne8 30. Nxe6 Rg8 31. Ng5 1-0
+
+[Event "FIDE Grand Prix 3 Pool A"]
+[Site "Berlin GER"]
+[Date "2022.03.28"]
+[Round "6.2"]
+[White "Esipenko, Andrey"]
+[Black "Nakamura, Hikaru"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2723"]
+[BlackElo "2750"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[EventDate "2022.03.22"]
+[PlyCount "76"]
+[WhiteFideId "24175439"]
+[BlackFideId "2016192"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Nc6 4. Nc3 Na5 5. Qf3 Nxc4 6. dxc4 d6 7. Nge2 Be6
+8. b3 Be7 9. O-O O-O 10. a4 Nd7 11. a5 a6 12. Ng3 Bg5 13. Nf5 Bxc1 14.
+Raxc1 g6 15. Ne3 c6 16. Ra1 Qe7 17. Qd1 Rad8 18. Qd2 Nf6 19. f4 exf4 20.
+Rxf4 Nh5 21. Rf3 Qg5 22. Raf1 Qxa5 23. g4 Ng7 24. Nf5 Qe5 25. Nh6+ Kh8 26.
+Nd5 g5 27. Qf2 f5 28. gxf5 Bxd5 29. exd5 Nh5 30. Re1 Qg7 31. Ng4 Nf4 32. f6
+Qd7 33. Rxf4 gxf4 34. Qxf4 Rde8 35. Rf1 Qf7 36. Kh1 Qg6 37. Rg1 h5 38. Ne3
+Rxf6 0-1
+
